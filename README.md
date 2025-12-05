@@ -1,8 +1,10 @@
-# ZKsync Protocol Libraries
+# ADI Stack Protocol Libraries
 
-This repository contains the protocol libraries for ZKsync project,
+This repository contains the protocol libraries for ADI Chain project,
 including the implementation of out-of-circuit and in-circuit VM,
 as well as utilities required for witness generation and CPU proving.
+
+ADI Stack utilizing the [MatterLabs zkOS stack](https://github.com/matter-labs/zksync-protocol)
 
 ## Crates
 
